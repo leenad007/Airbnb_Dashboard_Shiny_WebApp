@@ -20,7 +20,7 @@ install_and_load_packages <- function() {
 install_and_load_packages()
 
 # Load the data
-setwd("C:/Users/rohit/Downloads/AirbnbShinyDashboard 4/AirbnbShinyDashboard/data")
+setwd("C:/Users/leena/Downloads/AirbnbShinyDashboard 4/AirbnbShinyDashboard/data")
 air_bnb_final <- read.csv("air_bnb_daywise_data.csv")
 
 names(air_bnb_final)[names(air_bnb_final) == "price_y"] <- "price"
