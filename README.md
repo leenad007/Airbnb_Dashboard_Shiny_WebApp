@@ -95,9 +95,7 @@ We welcome contributions to enhance this application! If you have suggestions fo
    ```
 5. **Create a pull request**
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
