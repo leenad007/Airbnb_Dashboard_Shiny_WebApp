@@ -1,7 +1,5 @@
 # Airbnb-Dashboard-Shiny-Web-Application
 
-# Airbnb Your Path to Profitability in Austin
-
 Welcome to the GitHub repository for **"Airbnb Your Path to Profitability in Austin"**! This Shiny application is designed to provide Airbnb hosts with insightful data and tools to maximize their profitability in the Austin market. The dashboard comprises four tabs and four filters, each tailored to offer invaluable insights into optimizing your Airbnb listings.
 
 ## Table of Contents
